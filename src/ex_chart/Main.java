@@ -1,3 +1,4 @@
+package ex_chart;
 
 public class Main {
 
